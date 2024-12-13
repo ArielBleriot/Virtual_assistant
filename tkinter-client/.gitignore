@@ -1,0 +1,6 @@
+# automatically generated files
+# adjust the environment folder name if you are not using default name "tkinter-client-env"
+
+tkinter-client-env/
+chat/
+app/__pycache__/

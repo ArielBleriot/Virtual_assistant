@@ -1,0 +1,6 @@
+expo-env.d.ts
+package-lock.json
+
+# automatically generated files when you run npm install or npm update
+.expo/
+node_modules/

@@ -1,0 +1,9 @@
+# FastAPI web service
+# adjust the environment folder name if you are not using default name "web-service-env"
+
+web-service-env/
+venv/
+app/__pycache__/
+
+/web-service/web/Lib
+/web-service/web/Include
